@@ -1,0 +1,3 @@
+librarys:
+requests==2.31.0
+(you can install with: <pip install requests>
