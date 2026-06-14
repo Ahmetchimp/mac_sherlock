@@ -1,3 +1,4 @@
+(First Version:2026)
 🕵️‍♂️ mac_sherlock
 mac_sherlock is a lightweight, efficient OSINT and network analysis tool designed to identify hardware vendors (e.g., Apple, Samsung, Intel, Espressif) using Wi-Fi or Bluetooth MAC addresses.
 
