@@ -3,7 +3,7 @@ This project was created and is maintained by:
 
 Developer: Ahmet
 
-GitHub: @ahmetchimp
+GitHub: @Ahmetchimp
 
 Age: 12 (Aspiring Cybersecurity Analyst & Software Developer)
 

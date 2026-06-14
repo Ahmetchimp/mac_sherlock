@@ -35,3 +35,4 @@ user_input = input("Enter the MAC address to investigate (e.g., 00:1A:2B:3C:4D:5
 
 # Running the function with the provided MAC address
 sherlock_scan(user_input)
+print("\n[🔍] Scan complete. Stay safe and keep investigating!")
